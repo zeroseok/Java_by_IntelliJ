@@ -1,4 +1,4 @@
-package chap_01;
+package ch2;
 
 public class _02_2_Variable_Literal_Constant {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap_01;
+package ch2;
 
 public class _02_1_JavaBasicStructure {
     public static int sum(int n, int m){ //메소드

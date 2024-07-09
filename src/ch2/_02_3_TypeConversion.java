@@ -1,4 +1,4 @@
-package chap_01;
+package ch2;
 
 public class _02_3_TypeConversion {
     public static void main(String[] args) {
